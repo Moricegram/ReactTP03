@@ -15,4 +15,4 @@
 - Utilizacion de componentes de Bootstrap, ejemplo: (Container, Button)
 
   Enlace a ejercicio desplegado: 🔗
-  [Ejercicio 02](https://)
+  [Ejercicio 03](https://genuine-youtiao-8005fd.netlify.app)
