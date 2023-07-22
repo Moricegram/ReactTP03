@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #616266;
+  background-image: linear-gradient(
+    0deg,
+    #224555 0%,
+    #cf7791 30%,
+    #eff0e3 100%
+  );
+}
